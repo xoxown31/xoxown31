@@ -8,7 +8,9 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoxown31&count_bg=%234f8ef7&title_bg=%231a1a2e&icon=github&icon_color=%23ffffff&title=visits&edge_flat=true)](https://github.com/xoxown31)
+[![Gmail](https://img.shields.io/badge/xoxown31@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:xoxown31@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/xoxown31-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/xoxown31)
+[![Mafia AI](https://img.shields.io/badge/Project%20Page-Mafia--AI-4f8ef7?style=flat-square&logo=githubpages&logoColor=white)](https://computer-research-association.github.io/mafia-ai/)
 
 </div>
 
