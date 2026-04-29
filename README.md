@@ -1,16 +1,83 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xoxown31/xoxown31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4f8ef7&height=200&section=header&text=Tae-Ju%20Park&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%7C%20Handong%20Global%20University&descAlignY=58&descSize=18&descColor=c0d8ff" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxoxown31&count_bg=%234f8ef7&title_bg=%231a1a2e&icon=github&icon_color=%23ffffff&title=visits&edge_flat=true)](https://github.com/xoxown31)
+
+</div>
+
+---
+
+## About Me
+
+```python
+class TaejuPark:
+    affiliation = "Handong Global University"
+    major       = "AI, Computer & Electrical Engineering"
+    graduation  = "Feb 2027"
+
+    interests   = [
+        "Reinforcement Learning",
+        "Multi-Agent Systems",
+        "Reward Shaping",
+        "RAG for Code Generation",
+        "Evolutionary Computation",
+    ]
+
+    current     = [
+        "ASK 2026 — Mafia Game POMDP reward shaping (accepted ✓)",
+        "RL-based PSO parameter control (SWEVO target)",
+        "Failure-aware RAG for code generation @ POSTECH ML Lab",
+    ]
+```
+
+---
+
+## Research
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🎭 **[Mafia-AI](https://computer-research-association.github.io/mafia-ai/)** | Team-individual reward combination weight in POMDP competitive environments | ✅ ASK 2026 Accepted |
+| 🔬 **RL-PSO** | RL-based adaptive parameter control for Particle Swarm Optimization on CEC2017 | 🔄 In Progress |
+| 🧠 **Failure-Aware RAG** | Offline failure catalog for LLM code generation repair (test-time, training-free) | 🔄 In Progress |
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=4f8ef7)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![C++](https://img.shields.io/badge/C++-1a1a2e?style=for-the-badge&logo=cplusplus&logoColor=4f8ef7)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=4f8ef7)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=xoxown31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4f8ef7&icon_color=4f8ef7&text_color=c0d8ff&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoxown31&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=4f8ef7&text_color=c0d8ff" />
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **xoxown31@gmail.com** &nbsp;·&nbsp; 🏫 **Handong Global University**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f8ef7,100:1a1a2e&height=100&section=footer" />
+
+</div>
