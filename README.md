@@ -11,6 +11,7 @@
 [![Gmail](https://img.shields.io/badge/xoxown31@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:xoxown31@gmail.com)
 [![GitHub](https://img.shields.io/badge/github.com/xoxown31-1a1a2e?style=flat-square&logo=github&logoColor=white)](https://github.com/xoxown31)
 [![Mafia AI](https://img.shields.io/badge/Project%20Page-Mafia--AI-4f8ef7?style=flat-square&logo=githubpages&logoColor=white)](https://computer-research-association.github.io/mafia-ai/)
+[![Trial-First](https://img.shields.io/badge/Project%20Page-Trial--First-4f8ef7?style=flat-square&logo=githubpages&logoColor=white)](https://xoxown31.github.io/trial-first/)
 
 </div>
 
@@ -47,7 +48,7 @@ class TaejuPark:
 |---------|-------------|--------|
 | 🎭 **[Mafia-AI](https://computer-research-association.github.io/mafia-ai/)** | Team-individual reward combination weight in POMDP competitive environments | ✅ ASK 2026 Accepted |
 | 🔬 **RL-PSO** | RL-based adaptive parameter control for Particle Swarm Optimization on CEC2017 | 🔄 In Progress |
-| 🧠 **Failure-Aware RAG** | Offline failure catalog for LLM code generation repair (test-time, training-free) | 🔄 In Progress |
+| ⚡ **[Trial-First](https://xoxown31.github.io/trial-first/)** | Execution-driven failure analysis for SLM code generation (test-time, training-free) | ✅ Done |
 
 ---
 
