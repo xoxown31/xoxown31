@@ -48,7 +48,7 @@ class TaejuPark:
 |---------|-------------|--------|
 | 🎭 **[Mafia-AI](https://computer-research-association.github.io/mafia-ai/)** | Team-individual reward combination weight in POMDP competitive environments | ✅ ASK 2026 Accepted |
 | 🔬 **RL-PSO** | RL-based adaptive parameter control for Particle Swarm Optimization on CEC2017 | 🔄 In Progress |
-| ⚡ **[Trial-First](https://xoxown31.github.io/trial-first/)** | Execution-driven failure analysis for SLM code generation (test-time, training-free) | ✅ Done |
+| ⚡ **[Trial-First](https://xoxown31.github.io/trial-first/)** | Execution-driven failure analysis for SLM code generation (test-time, training-free) | ✅ KCC 2026 Accepted |
 
 ---
 
