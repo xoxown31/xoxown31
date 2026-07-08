@@ -36,7 +36,7 @@ class TaejuPark:
     current     = [
         "ASK 2026 — Mafia Game POMDP reward shaping (accepted ✓)",
         "RL-based PSO parameter control (SWEVO target)",
-        "Failure-aware RAG for code generation @ POSTECH ML Lab",
+        "KCC 2026 — Trial-First: execution-driven failure analysis (accepted ✓)",
     ]
 ```
 
