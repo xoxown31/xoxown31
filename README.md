@@ -52,6 +52,15 @@ class TaejuPark:
 
 ---
 
+## Publications
+
+- **T. Park**, J. Hong, C. Kim, I. Kim. 부분 관측 경쟁 환경에서 팀-개인 보상 결합 가중치가 정책 안정성에 미치는 영향: 마피아 게임 사례 연구. *ASK 2026* (KIPS), pp. 856–858.
+  [[paper]](https://kiss.kstudy.com/Detail/Ar?key=4254412) · [[project]](https://computer-research-association.github.io/mafia-ai/)
+- **T. Park**. 소형 언어 모델을 위한 실행 우선 접근 기반 코드 생성 (Trial-First). *KCC 2026* (KIISE), pp. 2138–2140.
+  [[paper]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929920) · [[project]](https://xoxown31.github.io/trial-first/) · [[code]](https://github.com/xoxown31/trial-first-poc)
+
+---
+
 ## Tech Stack
 
 <div align="center">
