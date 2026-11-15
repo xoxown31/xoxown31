@@ -16,7 +16,7 @@
 
 - Studying **Vision-Language-Action models** and **LLM agents for long-horizon robot manipulation**
 - Curious about **training-free improvement**: making a model behave better through context, demonstrations and execution feedback, without updating its weights
-- Building the AI side of **Castar**, an actor–producer casting matching platform (capstone)
+- Building the AI side of **[Castar](https://xoxown31.github.io/castar-landing/)**, an actor–producer casting matching platform (capstone)
 
 <br/>
 
@@ -51,7 +51,7 @@
 |:-:|---|---|
 | ⚡ | **[Trial-First](https://xoxown31.github.io/trial-first/)** | Test-time, training-free retries for small code LLMs: act first, then learn from execution failures |
 | 🎭 | **[Mafia-AI](https://computer-research-association.github.io/mafia-ai/)** | PPO agents in 8-player Mafia; how team vs. individual reward weighting shapes policy stability |
-| 🎬 | **Castar** | AI search & recommendation server for casting (FastAPI · vLLM · SigLIP LoRA) |
+| 🎬 | **[Castar](https://xoxown31.github.io/castar-landing/)** | Actor–casting matching platform; I built its AI search & recommendation server (FastAPI · vLLM · SigLIP LoRA) |
 
 <br/>
 
