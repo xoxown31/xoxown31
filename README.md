@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e3a8a,100:4f8ef7&height=190&section=header&text=Taeju%20Park&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=VLA%20%C2%B7%20Embodied%20Agents%20%C2%B7%20Agent%20Harnesses&descAlignY=57&descSize=17&descColor=cfe0ff&animation=fadeIn" width="100%" />
 
-**Undergraduate Researcher @ [POSTECH ML Lab](https://ml-postech.pages.dev)** &nbsp;·&nbsp; B.S. AI Computer Engineering, Handong Global University (Feb 2027)
+**AI Computer Engineering @ Handong Global University** &nbsp;·&nbsp; B.S. expected Feb 2027
 
 <a href="https://xoxown31.github.io/"><img src="https://img.shields.io/badge/Homepage-0f172a?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:xoxown31@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white" /></a>
@@ -14,7 +14,7 @@
 
 ### 🔭 Now
 
-- Studying **Vision-Language-Action models** and **LLM agents for long-horizon robot manipulation** at POSTECH ML Lab (since Mar 2026)
+- Studying **Vision-Language-Action models** and **LLM agents for long-horizon robot manipulation**
 - Curious about **training-free improvement**: making a model behave better through context, demonstrations and execution feedback, without updating its weights
 - Building the AI side of **Castar**, an actor–producer casting matching platform (capstone)
 
